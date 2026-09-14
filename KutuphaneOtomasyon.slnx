@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="KutuphaneOtomasyon.Business/KutuphaneOtomasyon.Business.csproj" />
+  <Project Path="KutuphaneOtomasyon.DataAccess/KutuphaneOtomasyon.DataAccess.csproj" />
+  <Project Path="KutuphaneOtomasyon.Entities/KutuphaneOtomasyon.Entities.csproj" />
+  <Project Path="KutuphaneOtomasyon.UI/KutuphaneOtomasyon.UI.csproj" />
+</Solution>
